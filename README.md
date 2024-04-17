@@ -5,7 +5,7 @@ In this lab you will explore the vulnerabilities of LLM systems, and get a feeli
 
 ## Process
 
-- Open the free ChatGPT version 3.5, which is available at [chat.openai.com](chat.openai.com). If you have access to GPT-4 or other LLMs, you can also use those and document your observations.
+- Open the free ChatGPT version 3.5, which is available at [chat.openai.com](https://chat.openai.com/). If you have access to GPT-4 or other LLMs, you can also use those and document your observations.
 - Use the following template to try out different defense strategies:
 
 ```
